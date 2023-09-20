@@ -1,0 +1,20 @@
+.profile{
+    width: 200px;
+    height: 200px;
+    border-radius: 50%;
+    display: block;
+    margin: auto;
+    display: block;
+}
+
+.introduce{
+    width: 500px;
+    height: 200px;
+    background-color: lightblue;
+    margin: auto;
+    padding: 10px;
+    border-radius: 20px;
+    box-shadow: 0px 0 20px lightskyblue;
+}
+
+
